@@ -1,0 +1,24 @@
+
+<?xml version='1.0' encoding='UTF-8'?>
+
+    <salesOrder>
+	   <salesOrderType>
+	      <SoldToParty>USCU_L02</SoldToParty>
+		       <DistributionChannel>10</DistributionChannel>
+			   <SalesOrderType>OR</SalesOrderType>
+			   <OrganizationDivision>00</OrganizationDivision>
+			   <SalesOrganization>1710</SalesOrganization>
+			   <PurchaseOrderByCustomer>45000049106</PurchaseOrderByCustomer>
+			<lineItem>
+			     <Material>MZ-TG-Y200</Material>
+				 <SalesOrderItem>10</SalesOrderItem>
+				 <RequestedQuantityUnit>PC</RequestedQuantityUnit>
+				 <NetAmount>89</NetAmount>
+				 </lineItem><lineItem>
+				 <Material>MZ-FG-M550</Material>
+				 <SalesOrderItem>20</SalesOrderItem>
+				 <RequestedQuantityUnit>PC</RequestedQuantityUnit>
+				 <NetAmount>75</NetAmount>
+			</lineItem>
+		</salesOrderType>
+	</salesOrder>
